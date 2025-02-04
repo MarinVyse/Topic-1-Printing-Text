@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             // Marin Vyse
+            Console.WriteLine("Parkside CI");
             Console.WriteLine("Hello, World!");
             Console.WriteLine(" This will print on a new line");
 
